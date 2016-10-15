@@ -6,7 +6,7 @@
 * [Webcode](http://www.webcodeapp.com/) - $39.99
 * [iDraw](http://www.indeeo.com/idraw/) - $24.99
 * [Autodesk Graphic](https://graphic.com/) - $29.90
-* [Inkscape](http://www.inkscape.org/en/) - Free
+* [Inkscape](http://www.inkscape.org/en/) - Free/Open source
 * [Inkpad](https://github.com/sprang/Inkpad) - Free/Open source
 * [Animatron](http://www.animatron.com) - Free
 * [Concepts: Smarter Sketching](http://concepts.tophatch.com) - Free with $5.99 In-App Purchase to unlock PRO which includes SVG export
