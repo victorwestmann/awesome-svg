@@ -34,6 +34,7 @@
 * [SVG use with External Source](http://css-tricks.com/svg-use-external-source/)
 * [SVGIcons](http://bbriel.me/svgicons/)
 * [Useiconic](https://useiconic.com/guides/)
+* [Inkscape Open Symbols](https://github.com/Xaviju/inkscape-open-symbols)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
